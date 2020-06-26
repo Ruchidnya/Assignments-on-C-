@@ -1,0 +1,30 @@
+A1:
+
+Input:
+Enter the width and height = 2 4
+Output:
+The area of the Triangle is : 4
+The area of the Rectangle is : 8
+
+A2:
+
+Output: This is Daughter
+
+A3:
+
+Output:
+ Name : Zebra Age : 10 Place : jungle
+ Name : Dolphine Age : 5 Place : sea
+ 
+A4:
+
+ For a square, side length  =  5
+ It's area will be : 25
+ 
+ For a triangle height and weight = 2 6
+ It's area will be : 6
+ 
+ A5:
+ 
+ Output:
+  Area in Child class is : 24
